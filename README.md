@@ -7,7 +7,6 @@
 - 📫 How to reach me: ... [Twitter](https://twitter.com/royaliben) 
 - ⚡ Fun fact: ... Am fascinated about Tech and how to solve problems with it
 -->
-<br />
 
 ### Languages and Tools:
 
