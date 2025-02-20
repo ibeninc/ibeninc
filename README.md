@@ -1,9 +1,9 @@
 ### Hello, World 👋 I am Reuben Odunze
 
-- 🔭 I’m currently working on ... Web3 projects
+- 🔭 I’m currently working on ... Specialized LLMs
 - 🌱 I’m currently learning ...Neural Networks with Python
-- 👯 I’m looking to collaborate on ... Blockchain Projects
-- 💬 Ask me about ... Blockchain, Smart Contracts, Flutter, Flask and Any Tech related Stuffs
+- 👯 I’m looking to collaborate on ... AI, Python and Javascript Projects
+- 💬 Ask me about ... LLMS, Smart Contracts, Flutter, Flask and Any Tech related Stuffs
 - 📫 How to reach me: ... [Twitter](https://twitter.com/royaliben) 
 - ⚡ Fun fact: ... Am fascinated about Tech and how to solve problems with it
 -->
